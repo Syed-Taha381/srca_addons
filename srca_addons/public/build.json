@@ -1,0 +1,8 @@
+{
+    "js/havenir-web.min.js": [
+        "public/js/website.js"
+    ],
+    "js/havenir-desk.min.js":[
+        "public/js/app.js"
+    ]
+}

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include srca_addons *.css
+recursive-include srca_addons *.csv
+recursive-include srca_addons *.html
+recursive-include srca_addons *.ico
+recursive-include srca_addons *.js
+recursive-include srca_addons *.json
+recursive-include srca_addons *.md
+recursive-include srca_addons *.png
+recursive-include srca_addons *.py
+recursive-include srca_addons *.svg
+recursive-include srca_addons *.txt
+recursive-exclude srca_addons *.pyc
